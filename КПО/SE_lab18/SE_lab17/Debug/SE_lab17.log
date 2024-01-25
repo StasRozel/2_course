@@ -1,0 +1,65 @@
+﻿Сборка начата 17.10.2023 17:32:53.
+Уровень детализации журнала: Normal.     1>Проект "E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\SE_lab17.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\SE_lab17.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Error.cpp FST.cpp GRB.cpp In.cpp IT.cpp LexAnalysis.cpp Log.cpp LT.cpp MFST.cpp Out.cpp Parm.cpp SE_lab18.cpp
+         Error.cpp
+         FST.cpp
+     1>E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\FST.cpp(62,37): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+         GRB.cpp
+         In.cpp
+         IT.cpp
+     1>E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\IT.cpp(79,36): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+     1>E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\IT.cpp(99,36): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+         LexAnalysis.cpp
+     1>E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\LexAnalysis.cpp(80,21): warning C4305: =: усечение из "int" в "char"
+     1>E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\LexAnalysis.cpp(80,17): warning C4309: =: усечение константного значения
+         Log.cpp
+         LT.cpp
+         MFST.cpp
+     1>E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\MFST.cpp(236,68): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+         Out.cpp
+         Parm.cpp
+         SE_lab18.cpp
+         Создание кода...
+     1>E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\LT.cpp(23): warning C4715: LT::LexTable::GetEntry: значение возвращается не при всех путях выполнения
+     1>E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\IT.cpp(160): warning C4715: IT::IdTable::GetEntry: значение возвращается не при всех путях выполнения
+     1>E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\IT.cpp(192): warning C4172: возвращение адреса локальной или временной переменной : buffer
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Универ\2 курс\КПО\SE_lab18\Debug\SE_lab17.exe" /INCREMENTAL /ILK:"Debug\SE_lab17.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Универ\2 курс\КПО\SE_lab18\Debug\SE_lab17.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Универ\2 курс\КПО\SE_lab18\Debug\SE_lab17.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\FST.obj
+         Debug\GRB.obj
+         Debug\In.obj
+         Debug\IT.obj
+         Debug\LexAnalysis.obj
+         Debug\Log.obj
+         Debug\LT.obj
+         Debug\MFST.obj
+         Debug\Out.obj
+         Debug\Parm.obj
+         Debug\SE_lab18.obj
+         SE_lab17.vcxproj -> E:\Универ\2 курс\КПО\SE_lab18\Debug\SE_lab17.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_lab17.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_lab17.tlog\SE_lab17.lastbuildstate".
+     1>Сборка проекта "E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\SE_lab17.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\SE_lab17.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\FST.cpp(62,37): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+         E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\IT.cpp(79,36): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+         E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\IT.cpp(99,36): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+         E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\LexAnalysis.cpp(80,21): warning C4305: =: усечение из "int" в "char"
+         E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\LexAnalysis.cpp(80,17): warning C4309: =: усечение константного значения
+         E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\MFST.cpp(236,68): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+         E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\LT.cpp(23): warning C4715: LT::LexTable::GetEntry: значение возвращается не при всех путях выполнения
+         E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\IT.cpp(160): warning C4715: IT::IdTable::GetEntry: значение возвращается не при всех путях выполнения
+         E:\Универ\2 курс\КПО\SE_lab18\SE_lab17\IT.cpp(192): warning C4172: возвращение адреса локальной или временной переменной : buffer
+
+    Предупреждений: 9
+    Ошибок: 0
+
+Прошло времени 00:00:21.98

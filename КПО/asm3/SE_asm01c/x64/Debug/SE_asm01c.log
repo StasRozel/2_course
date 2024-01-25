@@ -1,0 +1,28 @@
+﻿Сборка начата 12.12.2023 16:40:13.
+Уровень детализации журнала: Normal.     1>Проект "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01c\SE_asm01c.vcxproj" в узле 5 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "x64\Debug\SE_asm01c.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\SE_asm01c.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt SE_asm01c.cpp
+         SE_asm01c.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Универ\2 курс\КПО\KPO_Labs-main\x64\Debug\SE_asm01c.exe" /INCREMENTAL /ILK:"x64\Debug\SE_asm01c.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Универ\2 курс\КПО\KPO_Labs-main\x64\Debug\SE_asm01c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Универ\2 курс\КПО\KPO_Labs-main\x64\Debug\SE_asm01c.lib" /MACHINE:X64 x64\Debug\SE_asm01c.obj
+     1>SE_asm01c.obj : error LNK2019: ссылка на неразрешенный внешний символ getmin в функции main.
+     1>SE_asm01c.obj : error LNK2019: ссылка на неразрешенный внешний символ getmax в функции main.
+     1>E:\Универ\2 курс\КПО\KPO_Labs-main\x64\Debug\SE_asm01c.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
+     1>Сборка проекта "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01c\SE_asm01c.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01c\SE_asm01c.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект Link) -> 
+         SE_asm01c.obj : error LNK2019: ссылка на неразрешенный внешний символ getmin в функции main.
+         SE_asm01c.obj : error LNK2019: ссылка на неразрешенный внешний символ getmax в функции main.
+         E:\Универ\2 курс\КПО\KPO_Labs-main\x64\Debug\SE_asm01c.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
+
+    Предупреждений: 0
+    Ошибок: 3
+
+Прошло времени 00:00:01.84

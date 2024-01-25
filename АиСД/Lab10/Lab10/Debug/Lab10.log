@@ -1,0 +1,19 @@
+﻿Сборка начата 17.12.2023 21:01:54.
+Уровень детализации журнала: Normal.     1>Проект "E:\Универ\Course_2\3сем\АиСД\Lab10\Lab10\Lab10.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lab10.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Lab10.vcxproj -> E:\Универ\Course_2\3сем\АиСД\Lab10\Debug\Lab10.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab10.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab10.tlog\Lab10.lastbuildstate".
+     1>Сборка проекта "E:\Универ\Course_2\3сем\АиСД\Lab10\Lab10\Lab10.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.14

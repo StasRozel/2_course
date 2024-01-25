@@ -1,0 +1,19 @@
+﻿Сборка начата 18.12.2023 15:48:39.
+Уровень детализации журнала: Normal.     1>Проект "E:\Универ\2_курс\АиСД\lab 9\Lab9\Lab9.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab9.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Lab9.vcxproj -> E:\Универ\2_курс\АиСД\lab 9\Debug\Lab9.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab9.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab9.tlog\Lab9.lastbuildstate".
+     1>Сборка проекта "E:\Универ\2_курс\АиСД\lab 9\Lab9\Lab9.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.76

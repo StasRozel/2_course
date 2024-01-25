@@ -1,0 +1,22 @@
+﻿Сборка начата 12.12.2023 16:40:12.
+Уровень детализации журнала: Normal.     1>Проект "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01d\SE_asm01d.vcxproj" в узле 3 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "x64\Debug\SE_asm01d.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\SE_asm01d.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"E:\Универ\2 курс\КПО\KPO_Labs-main\x64\Debug\SE_asm01d.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt SE_asm01d.cpp
+         SE_asm01d.cpp
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\Lib.exe /OUT:"E:\Универ\2 курс\КПО\KPO_Labs-main\x64\Debug\SE_asm01d.lib" /NOLOGO /MACHINE:X64 x64\Debug\SE_asm01d.obj
+         SE_asm01d.vcxproj -> E:\Универ\2 курс\КПО\KPO_Labs-main\x64\Debug\SE_asm01d.lib
+       FinalizeBuildStatus:
+         Файл "x64\Debug\SE_asm01d.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\SE_asm01d.tlog\SE_asm01d.lastbuildstate".
+     1>Сборка проекта "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01d\SE_asm01d.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:02.17

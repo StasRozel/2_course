@@ -1,0 +1,31 @@
+﻿Сборка начата 12.12.2023 16:40:12.
+Уровень детализации журнала: Normal.     1>Проект "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01a\SE_asm01a.vcxproj" в узле 4 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "x64\Debug\SE_asm01a.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\SE_asm01a.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       _MASM:
+         Assembling SE_asm01a.asm...
+         cmd.exe /C "C:\Users\rozel\AppData\Local\Temp\tmp5db82a6047924d60b9a57a06eb8c0a0a.cmd"
+         ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_asm01a.obj" /W3 /errorReport:prompt  /TaSE_asm01a.asm
+     1>SE_asm01a.asm(1): error A2008: syntax error : .
+     1>SE_asm01a.asm(2): error A2008: syntax error : .
+     1>SE_asm01a.asm(4): error A2008: syntax error : ecx
+     1>SE_asm01a.asm(18): fatal error A1010: unmatched block nesting : getmin
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_asm01a.obj" /W3 /errorReport:prompt  /TaSE_asm01a.asm" с кодом "1".
+     1>Сборка проекта "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01a\SE_asm01a.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01a\SE_asm01a.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект _MASM) -> 
+         SE_asm01a.asm(1): error A2008: syntax error : .
+         SE_asm01a.asm(2): error A2008: syntax error : .
+         SE_asm01a.asm(4): error A2008: syntax error : ecx
+         SE_asm01a.asm(18): fatal error A1010: unmatched block nesting : getmin
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_asm01a.obj" /W3 /errorReport:prompt  /TaSE_asm01a.asm" с кодом "1".
+
+    Предупреждений: 0
+    Ошибок: 5
+
+Прошло времени 00:00:00.73

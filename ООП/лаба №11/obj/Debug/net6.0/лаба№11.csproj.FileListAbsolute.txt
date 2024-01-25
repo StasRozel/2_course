@@ -1,0 +1,15 @@
+E:\Универ\2 курс\ООП\лаба№11\bin\Debug\net6.0\лаба№11.exe
+E:\Универ\2 курс\ООП\лаба№11\bin\Debug\net6.0\лаба№11.deps.json
+E:\Универ\2 курс\ООП\лаба№11\bin\Debug\net6.0\лаба№11.runtimeconfig.json
+E:\Универ\2 курс\ООП\лаба№11\bin\Debug\net6.0\лаба№11.dll
+E:\Универ\2 курс\ООП\лаба№11\bin\Debug\net6.0\лаба№11.pdb
+E:\Универ\2 курс\ООП\лаба№11\obj\Debug\net6.0\лаба№11.csproj.AssemblyReference.cache
+E:\Универ\2 курс\ООП\лаба№11\obj\Debug\net6.0\лаба№11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Универ\2 курс\ООП\лаба№11\obj\Debug\net6.0\лаба№11.AssemblyInfoInputs.cache
+E:\Универ\2 курс\ООП\лаба№11\obj\Debug\net6.0\лаба№11.AssemblyInfo.cs
+E:\Универ\2 курс\ООП\лаба№11\obj\Debug\net6.0\лаба№11.csproj.CoreCompileInputs.cache
+E:\Универ\2 курс\ООП\лаба№11\obj\Debug\net6.0\лаба№11.dll
+E:\Универ\2 курс\ООП\лаба№11\obj\Debug\net6.0\refint\лаба№11.dll
+E:\Универ\2 курс\ООП\лаба№11\obj\Debug\net6.0\лаба№11.pdb
+E:\Универ\2 курс\ООП\лаба№11\obj\Debug\net6.0\лаба№11.genruntimeconfig.cache
+E:\Универ\2 курс\ООП\лаба№11\obj\Debug\net6.0\ref\лаба№11.dll

@@ -1,0 +1,160 @@
+---------------------------------------
+лаба№11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Test
+True
+get_property1
+set_property1
+Met
+NewMet
+GetType
+ToString
+Equals
+GetHashCode
+Поле: aaaaaaaaaaa, Тип: System.Int32
+Свойство: property1, Тип: System.Int32
+System.Collections.Generic.List`1[System.String]
+---------------------------------------
+---------------------------------------
+лаба№11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Test
+True
+get_property1
+set_property1
+Met
+NewMet
+GetType
+ToString
+Equals
+GetHashCode
+Поле: aaaaaaaaaaa, Тип: System.Int32
+Свойство: property1, Тип: System.Int32
+System.Collections.Generic.List`1[System.String]
+---------------------------------------
+---------------------------------------
+лаба№11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Test
+True
+get_property1
+set_property1
+Met
+NewMet
+GetType
+ToString
+Equals
+GetHashCode
+Поле: aaaaaaaaaaa, Тип: System.Int32
+Свойство: property1, Тип: System.Int32
+System.Collections.Generic.List`1[System.String]
+---------------------------------------
+---------------------------------------
+лаба№11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Test
+True
+get_property1
+set_property1
+Met
+NewMet
+GetType
+ToString
+Equals
+GetHashCode
+Поле: aaaaaaaaaaa, Тип: System.Int32
+Свойство: property1, Тип: System.Int32
+System.Collections.Generic.List`1[System.String]
+---------------------------------------
+---------------------------------------
+лаба№11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Test
+True
+get_property1
+set_property1
+Met
+NewMet
+GetType
+ToString
+Equals
+GetHashCode
+Поле: aaaaaaaaaaa, Тип: System.Int32
+Свойство: property1, Тип: System.Int32
+System.Collections.Generic.List`1[System.String]
+---------------------------------------
+---------------------------------------
+лаба№11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Test
+True
+get_property1
+set_property1
+Met
+NewMet
+GetType
+ToString
+Equals
+GetHashCode
+Поле: aaaaaaaaaaa, Тип: System.Int32
+Свойство: property1, Тип: System.Int32
+System.Collections.Generic.List`1[System.String]
+---------------------------------------
+---------------------------------------
+лаба№11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Test
+True
+get_property1
+set_property1
+Met
+NewMet
+GetType
+ToString
+Equals
+GetHashCode
+Поле: aaaaaaaaaaa, Тип: System.Int32
+Свойство: property1, Тип: System.Int32
+System.Collections.Generic.List`1[System.String]
+---------------------------------------
+---------------------------------------
+лаба№11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Test
+True
+get_property1
+set_property1
+Met
+NewMet
+GetType
+ToString
+Equals
+GetHashCode
+Поле: aaaaaaaaaaa, Тип: System.Int32
+Свойство: property1, Тип: System.Int32
+System.Collections.Generic.List`1[System.String]
+---------------------------------------
+---------------------------------------
+лаба№11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Test
+True
+get_property1
+set_property1
+Met
+NewMet
+GetType
+ToString
+Equals
+GetHashCode
+Поле: aaaaaaaaaaa, Тип: System.Int32
+Свойство: property1, Тип: System.Int32
+System.Collections.Generic.List`1[System.String]
+---------------------------------------
+---------------------------------------
+лаба№11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Test
+True
+get_property1
+set_property1
+Met
+NewMet
+GetType
+ToString
+Equals
+GetHashCode
+Поле: aaaaaaaaaaa, Тип: System.Int32
+Свойство: property1, Тип: System.Int32
+System.Collections.Generic.List`1[System.String]
+---------------------------------------

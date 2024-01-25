@@ -1,0 +1,35 @@
+﻿Сборка начата 12.12.2023 16:40:13.
+Уровень детализации журнала: Normal.     1>Проект "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01\SE_asm01.vcxproj" в узле 6 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\SE_asm01.tlog\unsuccessfulbuild".
+       _MASM:
+         Assembling asm01.asm...
+         cmd.exe /C "C:\Users\rozel\AppData\Local\Temp\tmp22a8066bedb34d1d8e24ce0d56a940d2.cmd"
+         ml64.exe /c /nologo /Zi /Fo"x64\Debug\asm01.obj" /W3 /errorReport:prompt  /Taasm01.asm
+     1>asm01.asm(1): error A2008: syntax error : .
+     1>asm01.asm(2): error A2008: syntax error : .
+     1>asm01.asm(7): error A2008: syntax error : .
+     1>asm01.asm(22): error A2070: invalid instruction operands
+     1>asm01.asm(27): error A2070: invalid instruction operands
+     1>asm01.asm(36): error A2008: syntax error : ecx
+     1>asm01.asm(50): fatal error A1010: unmatched block nesting : getmin
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\asm01.obj" /W3 /errorReport:prompt  /Taasm01.asm" с кодом "1".
+     1>Сборка проекта "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01\SE_asm01.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01\SE_asm01.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект _MASM) -> 
+         asm01.asm(1): error A2008: syntax error : .
+         asm01.asm(2): error A2008: syntax error : .
+         asm01.asm(7): error A2008: syntax error : .
+         asm01.asm(22): error A2070: invalid instruction operands
+         asm01.asm(27): error A2070: invalid instruction operands
+         asm01.asm(36): error A2008: syntax error : ecx
+         asm01.asm(50): fatal error A1010: unmatched block nesting : getmin
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\asm01.obj" /W3 /errorReport:prompt  /Taasm01.asm" с кодом "1".
+
+    Предупреждений: 0
+    Ошибок: 8
+
+Прошло времени 00:00:00.60

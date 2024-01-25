@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2v9qXiCKz44pBlrWmYyDV0R27AeLf8OTlkR03jC8YzpSYnHyke8LnwhBZmsw0BtgBxXUjVK3+HHPSgvsaLplQ==",
+  "success": true,
+  "projectFilePath": "E:\\Универ\\2 курс\\ООП\\лаба №13\\лаба №13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rozel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\rozel\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

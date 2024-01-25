@@ -1,0 +1,48 @@
+﻿Сборка начата 08.11.2023 17:09:49.
+Уровень детализации журнала: Normal.     1>Проект "E:\Универ\2 курс\КСиС\lab5\lab5.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\lab5.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt lab5.cpp
+         lab5.cpp
+     1>E:\Универ\2 курс\КСиС\lab5\lab5.cpp(14,1): warning C4005: IP_DEST_NET_UNREACHABLE: изменение макроопределения
+       C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(173,1): message : см. предыдущее определение "IP_DEST_NET_UNREACHABLE"
+     1>E:\Универ\2 курс\КСиС\lab5\lab5.cpp(15,1): warning C4005: IP_DEST_HOST_UNREACHABLE: изменение макроопределения
+       C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(174,1): message : см. предыдущее определение "IP_DEST_HOST_UNREACHABLE"
+     1>E:\Универ\2 курс\КСиС\lab5\lab5.cpp(16,1): warning C4005: IP_DEST_PROT_UNREACHABLE: изменение макроопределения
+       C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(175,1): message : см. предыдущее определение "IP_DEST_PROT_UNREACHABLE"
+     1>E:\Универ\2 курс\КСиС\lab5\lab5.cpp(17,1): warning C4005: IP_DEST_PORT_UNREACHABLE: изменение макроопределения
+       C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(176,1): message : см. предыдущее определение "IP_DEST_PORT_UNREACHABLE"
+     1>E:\Универ\2 курс\КСиС\lab5\lab5.cpp(18,1): warning C4005: IP_REQ_TIMED_OUT: изменение макроопределения
+       C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(181,1): message : см. предыдущее определение "IP_REQ_TIMED_OUT"
+     1>E:\Универ\2 курс\КСиС\lab5\lab5.cpp(19,1): warning C4005: IP_BAD_REQ: изменение макроопределения
+       C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(182,1): message : см. предыдущее определение "IP_BAD_REQ"
+     1>E:\Универ\2 курс\КСиС\lab5\lab5.cpp(20,1): warning C4005: IP_BAD_ROUTE: изменение макроопределения
+       C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(183,1): message : см. предыдущее определение "IP_BAD_ROUTE"
+     1>E:\Универ\2 курс\КСиС\lab5\lab5.cpp(21,1): warning C4005: IP_TTL_EXPIRED_TRANSIT: изменение макроопределения
+       C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(184,1): message : см. предыдущее определение "IP_TTL_EXPIRED_TRANSIT"
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Универ\2 курс\КСиС\lab5\x64\Debug\lab5.exe" /INCREMENTAL /ILK:"x64\Debug\lab5.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Универ\2 курс\КСиС\lab5\x64\Debug\lab5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Универ\2 курс\КСиС\lab5\x64\Debug\lab5.lib" /MACHINE:X64 x64\Debug\lab5.obj
+         lab5.vcxproj -> E:\Универ\2 курс\КСиС\lab5\x64\Debug\lab5.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\lab5.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\lab5.tlog\lab5.lastbuildstate".
+     1>Сборка проекта "E:\Универ\2 курс\КСиС\lab5\lab5.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "E:\Универ\2 курс\КСиС\lab5\lab5.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         E:\Универ\2 курс\КСиС\lab5\lab5.cpp(14,1): warning C4005: IP_DEST_NET_UNREACHABLE: изменение макроопределения
+         E:\Универ\2 курс\КСиС\lab5\lab5.cpp(15,1): warning C4005: IP_DEST_HOST_UNREACHABLE: изменение макроопределения
+         E:\Универ\2 курс\КСиС\lab5\lab5.cpp(16,1): warning C4005: IP_DEST_PROT_UNREACHABLE: изменение макроопределения
+         E:\Универ\2 курс\КСиС\lab5\lab5.cpp(17,1): warning C4005: IP_DEST_PORT_UNREACHABLE: изменение макроопределения
+         E:\Универ\2 курс\КСиС\lab5\lab5.cpp(18,1): warning C4005: IP_REQ_TIMED_OUT: изменение макроопределения
+         E:\Универ\2 курс\КСиС\lab5\lab5.cpp(19,1): warning C4005: IP_BAD_REQ: изменение макроопределения
+         E:\Универ\2 курс\КСиС\lab5\lab5.cpp(20,1): warning C4005: IP_BAD_ROUTE: изменение макроопределения
+         E:\Универ\2 курс\КСиС\lab5\lab5.cpp(21,1): warning C4005: IP_TTL_EXPIRED_TRANSIT: изменение макроопределения
+
+    Предупреждений: 8
+    Ошибок: 0
+
+Прошло времени 00:00:01.74

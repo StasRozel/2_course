@@ -1,0 +1,18 @@
+E:\Универ\2 курс\ООП\лаба №13\bin\Debug\net6.0\лаба №13.exe
+E:\Универ\2 курс\ООП\лаба №13\bin\Debug\net6.0\лаба №13.deps.json
+E:\Универ\2 курс\ООП\лаба №13\bin\Debug\net6.0\лаба №13.runtimeconfig.json
+E:\Универ\2 курс\ООП\лаба №13\bin\Debug\net6.0\лаба №13.dll
+E:\Универ\2 курс\ООП\лаба №13\bin\Debug\net6.0\лаба №13.pdb
+E:\Универ\2 курс\ООП\лаба №13\obj\Debug\net6.0\лаба №13.csproj.AssemblyReference.cache
+E:\Универ\2 курс\ООП\лаба №13\obj\Debug\net6.0\лаба №13.GeneratedMSBuildEditorConfig.editorconfig
+E:\Универ\2 курс\ООП\лаба №13\obj\Debug\net6.0\лаба №13.AssemblyInfoInputs.cache
+E:\Универ\2 курс\ООП\лаба №13\obj\Debug\net6.0\лаба №13.AssemblyInfo.cs
+E:\Универ\2 курс\ООП\лаба №13\obj\Debug\net6.0\лаба №13.csproj.CoreCompileInputs.cache
+E:\Универ\2 курс\ООП\лаба №13\obj\Debug\net6.0\лаба №13.dll
+E:\Универ\2 курс\ООП\лаба №13\obj\Debug\net6.0\refint\лаба №13.dll
+E:\Универ\2 курс\ООП\лаба №13\obj\Debug\net6.0\лаба №13.pdb
+E:\Универ\2 курс\ООП\лаба №13\obj\Debug\net6.0\лаба №13.genruntimeconfig.cache
+E:\Универ\2 курс\ООП\лаба №13\obj\Debug\net6.0\ref\лаба №13.dll
+E:\Универ\2 курс\ООП\лаба №13\bin\Debug\net6.0\SoapFormatter.dll
+E:\Универ\2 курс\ООП\лаба №13\obj\Debug\net6.0\лаба №13.csproj.CopyComplete
+E:\Универ\2 курс\ООП\лаба №13\bin\Debug\net6.0\Newtonsoft.Json.dll

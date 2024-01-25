@@ -1,0 +1,21 @@
+﻿Сборка начата 05.12.2023 16:49:59.
+Уровень детализации журнала: Normal.     1>Проект "E:\Универ\2 курс\КПО\4 asm\Serializer\ASM\ASM.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ASM.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       _MASM:
+         Assembling AsmFile.asm...
+         cmd.exe /C "C:\Users\rozel\AppData\Local\Temp\tmp5892236b1f684f66acbcff80e29cb559.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\AsmFile.obj" /Fl"Debug\\" /W3 /errorReport:prompt  /TaAsmFile.asm
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Универ\2 курс\КПО\4 asm\Serializer\Debug\ASM.exe" /INCREMENTAL /ILK:"Debug\ASM.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Универ\2 курс\КПО\4 asm\Serializer\Debug\ASM.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Универ\2 курс\КПО\4 asm\Serializer\Debug\ASM.lib" /MACHINE:X86 Debug\AsmFile.obj
+         ASM.vcxproj -> E:\Универ\2 курс\КПО\4 asm\Serializer\Debug\ASM.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ASM.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ASM.tlog\ASM.lastbuildstate".
+     1>Сборка проекта "E:\Универ\2 курс\КПО\4 asm\Serializer\ASM\ASM.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.12

@@ -1,0 +1,47 @@
+﻿Сборка начата 12.12.2023 16:40:12.
+Уровень детализации журнала: Normal.     1>Проект "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01b\SE_asm01b.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "x64\Debug\SE_asm01b.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\SE_asm01b.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       _MASM:
+         Assembling SE_asm01b.asm...
+         cmd.exe /C "C:\Users\rozel\AppData\Local\Temp\tmp2d514926920d4e43b3949c6bbb389978.cmd"
+         ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_asm01b.obj" /W3 /errorReport:prompt  /TaSE_asm01b.asm
+     1>SE_asm01b.asm(1): error A2008: syntax error : .
+     1>SE_asm01b.asm(2): error A2008: syntax error : .
+     1>SE_asm01b.asm(13): error A2008: syntax error : .
+     1>SE_asm01b.asm(28): error A2008: syntax error : SetConsoleTitleA
+     1>SE_asm01b.asm(34): error A2008: syntax error : getmin
+     1>SE_asm01b.asm(38): error A2008: syntax error : getmax
+     1>SE_asm01b.asm(43): error A2070: invalid instruction operands
+     1>SE_asm01b.asm(44): error A2070: invalid instruction operands
+     1>SE_asm01b.asm(47): error A2008: syntax error : WriteConsoleA
+     1>SE_asm01b.asm(48): error A2008: syntax error : WriteConsoleA
+     1>SE_asm01b.asm(55): error A2008: syntax error : eax
+     1>SE_asm01b.asm(79): fatal error A1010: unmatched block nesting : tochar
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_asm01b.obj" /W3 /errorReport:prompt  /TaSE_asm01b.asm" с кодом "1".
+     1>Сборка проекта "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01b\SE_asm01b.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "E:\Универ\2 курс\КПО\KPO_Labs-main\SE_asm01b\SE_asm01b.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект _MASM) -> 
+         SE_asm01b.asm(1): error A2008: syntax error : .
+         SE_asm01b.asm(2): error A2008: syntax error : .
+         SE_asm01b.asm(13): error A2008: syntax error : .
+         SE_asm01b.asm(28): error A2008: syntax error : SetConsoleTitleA
+         SE_asm01b.asm(34): error A2008: syntax error : getmin
+         SE_asm01b.asm(38): error A2008: syntax error : getmax
+         SE_asm01b.asm(43): error A2070: invalid instruction operands
+         SE_asm01b.asm(44): error A2070: invalid instruction operands
+         SE_asm01b.asm(47): error A2008: syntax error : WriteConsoleA
+         SE_asm01b.asm(48): error A2008: syntax error : WriteConsoleA
+         SE_asm01b.asm(55): error A2008: syntax error : eax
+         SE_asm01b.asm(79): fatal error A1010: unmatched block nesting : tochar
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_asm01b.obj" /W3 /errorReport:prompt  /TaSE_asm01b.asm" с кодом "1".
+
+    Предупреждений: 0
+    Ошибок: 13
+
+Прошло времени 00:00:00.52
